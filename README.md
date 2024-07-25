@@ -1,5 +1,5 @@
 # Schoolwebsite
-Understood. Here is the revised README file that reflects setting up and running the project, considering the project has already been created and deployed on Netlify:
+Here is the  README file that reflects setting up and running the project, considering the project has already been created and deployed on Netlify:
 
 ---
 
