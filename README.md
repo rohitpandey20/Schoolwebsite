@@ -47,7 +47,7 @@ Welcome to the Springdale Public School website project. This project provides a
 ## Deployment
 
 The website is deployed on Netlify. You can view it live at:
-[Springdale Public School](https:https://lambent-meringue-d9dc7e.netlify.app/)
+(https:https://lambent-meringue-d9dc7e.netlify.app/)
 
 ## Additional Notes
 
